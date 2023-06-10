@@ -12,5 +12,5 @@
 and more!  
 <br>
 <br>
-## Tournaments 🏆
+## CTF Tournaments 🏆
 **DEFCON** - *SUMMER 2023*  
